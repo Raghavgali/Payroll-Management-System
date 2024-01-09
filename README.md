@@ -1,2 +1,3 @@
 # Payroll-Management-System
-This repository houses the code for a streamlined Payroll Management System, featuring an intuitive interface, automated salary calculations, and robust database management. Contribute to enhance your organization's payroll processes efficiently.
+This repository contains the source code for a comprehensive Payroll Management System designed to streamline organizational payroll processes. The system boasts a user-friendly interface with features like employee record management, automated salary calculation, and efficient time/attendance tracking. The normalized relational database structure ensures data integrity, and SQL operations facilitate seamless interactions. Custom queries and visual representations enhance usability. Data, generated using Python libraries, reduces cleaning procedures. Contribute to this project to optimize and elevate your organization's payroll administration.
+

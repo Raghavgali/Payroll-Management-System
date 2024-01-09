@@ -64,11 +64,3 @@ Terminate the connection between the user interface and the payroll database for
 ## Conclusion / Future Directions
 
 This project has provided valuable insights into database design, data validation, SQL proficiency, user interface functionality, and real-world application of payroll management. Future directions could include expanding features, enhancing the user interface, and exploring integration with additional modules for a more comprehensive HR solution.
-
-## Getting Started
-
-Follow the instructions in the `README.md` file to set up and run the Payroll Management System locally. Ensure that the necessary dependencies are installed, and configure the database connection parameters.
-
-## Contributions
-
-Contributions to enhance features, fix bugs, or optimize performance are welcome. Please follow the guidelines outlined in the `CONTRIBUTING.md` file.
